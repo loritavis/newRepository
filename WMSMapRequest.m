@@ -1,6 +1,5 @@
 %WMSMapRequest Web Map Service map request object
 %
-%   A WMSMapRequest object contains a request to a WMS server to obtain a
 %   map which represents geographic information.  The map is rendered as a
 %   color or grayscale image. The object contains properties that can be
 %   set to facilitate expressing the geographic extent, rendering, or size
