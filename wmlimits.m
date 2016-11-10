@@ -1,4 +1,3 @@
-function varargout = wmlimits(varargin)
 %WMLIMITS Set or obtain web map limits
 %
 %   Syntax
