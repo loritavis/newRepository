@@ -6,7 +6,6 @@ function varargout = wmmarker(varargin)
 %   WMMARKER(LAT, LON)
 %   WMMARKER(P)
 %   WMMARKER(WM, __)
-%   WMMARKER(__, Name, Value)
 %   H = WMMARKER(__)
 %
 %   Description

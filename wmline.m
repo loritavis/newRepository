@@ -6,7 +6,6 @@ function varargout = wmline(varargin)
 %   WMLINE(LAT, LON)
 %   WMLINE(P)
 %   WMLINE(WM, __)
-%   WMLINE(__, Name, Value)
 %   H = WMLINE(__)
 %
 %   Update Description

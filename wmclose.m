@@ -1,7 +1,6 @@
 function wmclose(varargin)
 
 %
-%   Syntax
 %   ------
 %   WMCLOSE
 %   WMCLOSE(WM)
@@ -9,7 +8,6 @@ function wmclose(varargin)
 %
 %   Description
 %   -----------
-%   WMCLOSE closes the current web map.
 %
 %   WMCLOSE(WM) closes the web map specified by WM.
 %

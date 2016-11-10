@@ -1,8 +1,6 @@
 %WebMapServer Web map server object
 %
-%   A WebMapServer is a handle object representing an implementation of a
 %   Web Map Service (WMS) and acts as a proxy to a WMS server on the
-%   Internet. The WebMapServer resides physically on the client side. The
 %   object can access the server's capabilities document and can perform
 %   requests to obtain maps.  It supports multiple WMS versions and
 %   negotiates with the server automatically to use the highest known
